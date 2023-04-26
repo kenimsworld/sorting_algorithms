@@ -98,6 +98,7 @@ void mergesort(int *array, int *tmp, int start, int end)
  *@array: array of integers
  *Return: void
  */
+
 void merge_sort(int *array, size_t size)
 {
 	int *tmp;
